@@ -21,7 +21,7 @@ I want to learn how to develop web based games that communicate with the ethereu
 
 ## Technologies Learned
 
-Solidity, Ethereum blockchain, Web3.js, Truffle 
+Solidity, Ethereum blockchain, Web3.js, Truffle, Gnache, Mocha
 
 
 ## Next Steps
